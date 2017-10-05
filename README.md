@@ -1,5 +1,8 @@
 #Validar Tarjeta de Crédito v 0.1
 ______
+###### by Vacas Vuelan
+October 5, 2017 8:39 AM
+
 El siguiente programa utiliza el [algoritmo de Luhn](http://https://es.wikipedia.org/wiki/Algoritmo_de_Luhn#Creaci.C3.B3n), creado por Hans Peter Luhn en la decada de 1950. Es de dominio público y es utilizado para validar números de tarjetas de crédito, números IMEI, etc.
 
 ##Funciones
@@ -13,7 +16,7 @@ Este código realiza las siguientes funciones:
 A continuación se presenta el funcionamiento del programa mediante un dragrama de flujo: 
 
 ![Diagrama de flujo
-](link)
+](https://github.com/jotavasquez/Tarjeta_Validar/blob/master/diagrama%20de%20flujo_%20Validar%20tarjeta.png?raw=true)
 
 ##Desglozando el Código
 1. Se solicita el número de la tarjeta de credito a verificar mediante prompt
@@ -58,4 +61,3 @@ if( result % 10 == 0 ) { // validar resultado
   }
 
 ```
-# Tarjeta_Validar
