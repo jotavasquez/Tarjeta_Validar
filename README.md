@@ -58,3 +58,4 @@ if( result % 10 == 0 ) { // validar resultado
   }
 
 ```
+# Tarjeta_Validar
